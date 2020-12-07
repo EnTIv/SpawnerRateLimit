@@ -1,0 +1,8 @@
+name: SpawnerRateLimit
+main: com.entiv.spawnerratelimit.Main
+version: 1.0
+
+commands:
+  SpawnerRateLimit:
+    description: 刷怪笼限制指令
+    aliases: [srl]

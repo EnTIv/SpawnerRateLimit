@@ -1,0 +1,5 @@
+# 刷怪笼效率限制, 1 为 100% 效率, 0.5 为 50% 效率
+Rate: 0.5
+
+Message:
+  Reload: "&9&lSpawnerRateLimit &6&l>> &a插件已重载"

@@ -20,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-    compileOnly 'com.destroystokyo.paper:paper-api:1.16.4-R0.1-SNAPSHOT'
+    compileOnly 'com.destroystokyo.paper:paper-api:1.12.2-R0.1-SNAPSHOT'
 }
 
 [compileJava,compileTestJava]*.options*.encoding = 'UTF-8'
